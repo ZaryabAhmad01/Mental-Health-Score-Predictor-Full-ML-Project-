@@ -8,8 +8,12 @@ An end-to-end machine learning project that predicts a person's **mental health 
 ---
 
 ## 📸 Preview
+<img width="1320" height="657" alt="image" src="https://github.com/user-attachments/assets/645368c2-c3d4-4e9b-965f-046ce7c11b2e" />
 
-*(Add a screenshot or GIF of the app here — e.g. `assets/demo.png`)*
+
+<img width="1302" height="647" alt="image" src="https://github.com/user-attachments/assets/eaf0a109-2237-4212-9b05-dca769d5769f" />
+
+
 
 ---
 
